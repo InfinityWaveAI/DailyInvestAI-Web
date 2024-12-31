@@ -1,0 +1,153 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Invest and Grow",
+    "subtitle": "with AI",
+    "description": "Your Smart Companion for Daily Investments. we believe in breaking down barriers to investing. With our unique approach, even individuals from Tier 2 and Tier 3 cities, daily wage earners, and small business owners can confidently participate in the stock market with small yet impactful and consistent investments.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:infinitywaveaisolutions@gmail.com?subject=I like know more about daily invest AI!"
+    }
+  },
+  "product": {
+    "title": "Why Daily Investing with AI?",
+    "items": [
+      {
+        "title": "Consistency!",
+        "description": "Capture market movements daily, reducing the impact of volatility. Benefit from AI-driven insights and analysis to make better investment decisions.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Affordability!",
+        "description": "Make small investments over time instead of requiring a large upfront amount. Multi-lingual app gives you accurate information in your own language.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Advance AI Technology",
+    "subtitle": "All the best technologies out there!",
+    "description": "Frontend with React.js and Next.js for fast, SEO-friendly user interfaces. Backend with Node.js and Python for robust data processing. AI Algorithms, NLP for multilingual support, Machine Learning for stock trend analysis and strategic recommendations. APIs: Integration with market data providers (e.g., Alpha Vantage, Yahoo Finance). Database: Chroma DB for semantic relational dependencies.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Open AI",
+        "description": "Open AI is advance most efficient AI models",
+        "icon": "/assets/images/openai.png"
+      },
+      {
+        "name": "Python",
+        "description": "Python project making it so quick and fast.",
+        "icon": "/assets/images/python.png"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "",
+        "features": [
+          "Only English",
+          "5 Watchlists",
+          "Limited AI",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "",
+
+        "features": [
+          "8 Languages",
+          "100 Watchlists",
+          "10 AI Agents",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "",
+        "features": [
+          "8 Languages",
+          "500 Watchlists",
+          "Multi AI Agents",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Daily Consistent Investments",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Multilingual Support",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "AI Agent Monitoring",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Real-Time Insights",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/yeshwanthsaim",
+      "twitter": "https://twitter.com/yeshrealstar",
+      "linkedin": "https://www.linkedin.com/in/yeshwanthsai/"
+    }
+  }
+}
